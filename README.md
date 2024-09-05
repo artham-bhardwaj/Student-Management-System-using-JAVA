@@ -19,4 +19,4 @@ The code for this project is available in the `code.java` file within this repos
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/student-management-system.git
+  [ git clone https://github.com/yourusername/student-management-system.git](https://github.com/artham-bhardwaj/Student-Management-System-using-JAVA.git)
